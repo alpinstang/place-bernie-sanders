@@ -25,6 +25,7 @@ footer {
   /* position: absolute; */
   /* bottom: 0; */
   padding: 2em;
+  padding-top: 0.5em;
   text-align: center;
   font-size: 18px;
   font-style: italic;
@@ -47,6 +48,7 @@ p {
 
 #image-stage-wrapper {
   margin: 0 auto;
+  margin-top: 10px;
   position: relative;
   width: 710px;
   height: 410px;
@@ -124,10 +126,14 @@ canvas {
 }
 
 .form-container {
-  height: 50px;
+  height: 20px;
 }
 
 #blah {
   display: none;
-  height: 50px;
+  height: 20px;
+}
+
+hr {
+  margin: 5px;
 }

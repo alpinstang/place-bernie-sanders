@@ -2,7 +2,16 @@
   "name": "express",
   "version": "1.0.0",
   "description": "bernie-in-a-chair",
-  "main": "index.js",
+  "main": "app.js",
+  "keywords": [
+    "bernie sanders",
+    "konvaJS",
+    "meme",
+    "fun"
+  ],
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
